@@ -1,5 +1,6 @@
 # Team-15-Net-Zero
-Open-source platform for trusted product carbon labels data and environmental labeling education
+Open-source platform for trusted product carbon labels data and environmental labeling education.
+By Mihai Enescu, Mathew Beane, Hassia Gado Alzouma
 
 Consumers and investors are increasingly looking for companies to show that they are aware of climate change and are transparent about their product’s environmental impact. Trustworthy data about a product’s greenhouse gas emissions or CO2e spent in its creation, transportation, use and end of life, as measured in grams or kilograms of carbon is scarce. Companies are struggling to come up with their own methodologies for calculating and labeling the carbon footprint of any given product and are looking for federal guidance.
 
